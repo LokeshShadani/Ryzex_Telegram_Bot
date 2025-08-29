@@ -1,11 +1,12 @@
 # 🤖 Ryzex AI Assistant
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Last Commit](https://img.shields.io/github/last-commit/LokeshShadani/Ryzex_Telegram_Bot.git)
-![Repo Size](https://img.shields.io/github/repo-size/LokeshShadani/Ryzex_Telegram_Bot.git)
-![Issues](https://img.shields.io/github/issues/LokeshShadani/Ryzex_Telegram_Bot.git)
-![Stars](https://img.shields.io/github/stars/LokeshShadani/Ryzex_Telegram_Bot.git?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/LokeshShadani/Ryzex_Telegram_Bot?color=blue&style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/LokeshShadani/Ryzex_Telegram_Bot?color=green&style=for-the-badge)
+![Open Issues](https://img.shields.io/github/issues/LokeshShadani/Ryzex_Telegram_Bot?color=red&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/LokeshShadani/Ryzex_Telegram_Bot?color=yellow&style=for-the-badge)
+![Python Version](https://img.shields.io/badge/python-3.11-blue?style=for-the-badge)
+![License](https://img.shields.io/github/license/LokeshShadani/Ryzex_Telegram_Bot?color=purple&style=for-the-badge)
+![Latest Release](https://img.shields.io/github/v/release/LokeshShadani/Ryzex_Telegram_Bot?color=orange&style=for-the-badge)
 
 ---
 
