@@ -2,10 +2,10 @@
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/RyzexAI)
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/RyzexAI)
-![Issues](https://img.shields.io/github/issues/yourusername/RyzexAI)
-![Stars](https://img.shields.io/github/stars/yourusername/RyzexAI?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/LokeshShadani/Ryzex_Telegram_Bot.git)
+![Repo Size](https://img.shields.io/github/repo-size/LokeshShadani/Ryzex_Telegram_Bot.git)
+![Issues](https://img.shields.io/github/issues/LokeshShadani/Ryzex_Telegram_Bot.git)
+![Stars](https://img.shields.io/github/stars/LokeshShadani/Ryzex_Telegram_Bot.git?style=social)
 
 ---
 
